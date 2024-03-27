@@ -4,7 +4,7 @@ The Travel Planner application is a simple JavaFX-based tool designed to assist 
 
 Here is a demo video demonstrating the Word Counter JavaFX App. Due to its size (6MB), I recommend downloading the video to view it:
 
-[Download Demo Video](https://github.com/oussama-zbair/CodeAlpha_Task_2/blob/main/demo/demo.mp4)
+[Download Demo Video](https://github.com/oussama-zbair/CodeAlpha_Task_3/blob/main/demo/demo.mp4)
 
 Instructions:
 
