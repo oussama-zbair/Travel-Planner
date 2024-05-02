@@ -1,7 +1,4 @@
-![](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)  ![](https://img.shields.io/badge/java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white) 
-
-
-
+![](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 
 The Travel Planner application is a simple JavaFX-based tool designed to assist users in planning their travel itineraries. Users can input their desired destination, travel date, and preferences, such as preferred activities or accommodation types. The application then generates a detailed travel plan, including weather information for the destination and an estimated budget for the trip.
 
